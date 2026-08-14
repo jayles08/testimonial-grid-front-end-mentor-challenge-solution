@@ -2,6 +2,9 @@
 
 This is my implementation of the Frontend Mentor Testimonial Grid challenge.
 
+## 🚀 Live Demo
+[View the Live Project Here](https://jayles08.github.io/testimonial-grid-front-end-mentor-challenge-solution/)
+
 ### 💡 Project Context
 I completed this layout challenge as a learning exercise by following a video tutorial by **Zach Gollwitzer**. 
 
